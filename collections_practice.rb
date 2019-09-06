@@ -17,4 +17,5 @@ def swap_elements (array)
     if a <=> b 
       a <=> b 
     end 
+  end
 end 
